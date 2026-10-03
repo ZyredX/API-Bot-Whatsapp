@@ -27,11 +27,11 @@ const MODELO_TEXTO = 'claude-sonnet-4-6';
 // ========== CONFIGURACIÓN EDITABLE ==========
 const CONFIG_VENTAS = {
     NOMBRE_NEGOCIO: 'AG Accesorios',
-    CUENTA_BANCOLOMBIA: '71831738100',
-    TITULAR_CUENTA: 'AG Accesorios',
-    NUMERO_NEQUI: '3122613665',
-    NUMERO_NOTIFICACIONES: '573043788387@s.whatsapp.net',
-    URL_CATALOGO: 'https://www.whatalogosale.com/tienda/ag-accesorios'
+    CUENTA_BANCOLOMBIA: '#######00',
+    TITULAR_CUENTA: 'AX Accesorios',
+    NUMERO_NEQUI: '#######65',
+    NUMERO_NOTIFICACIONES: '57#######87@s.whatsapp.net',
+    URL_CATALOGO: 'https://www.whatalogosale.com/'
 };
 // ============================================
 
@@ -65,7 +65,7 @@ const MAX_ANCHO_IMAGEN = 1024;
 const CALIDAD_JPEG = 80;
 
 const PREGUNTAS_FRECUENTES = {
-    'hola': '¡Hola! 👋 Bienvenido a AG Accesorios. ¿En qué puedo ayudarte hoy? Tenemos hermosas joyas en covergold y acero inoxidable. 💍✨',
+    'hola': '¡Hola! 👋 Bienvenido a AX Accesorios. ¿En qué puedo ayudarte hoy? Tenemos hermosas joyas en covergold y acero inoxidable. 💍✨',
     'buenos dias': '¡Buenos días! ☀️ ¿En qué puedo ayudarte con nuestras joyas hoy? 💍',
     'buenas tardes': '¡Buenas tardes! 🌤️ ¿Te gustaría ver nuestro catálogo de joyas? 💎',
     'buenas noches': '¡Buenas noches! 🌙 ¿En qué puedo ayudarte con nuestros accesorios? ✨',
